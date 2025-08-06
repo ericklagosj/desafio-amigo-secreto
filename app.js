@@ -22,4 +22,30 @@ function agregarAmigo() {
     lista.appendChild(li);
 
     input.value = ""; // Limpiar el campo de entrada
+    mostrarListaAmigos();
+}
+
+function mostrarListaAmigos() {
+    const lista = document.getElementById('listaAmigos');
+    lista.innerHTML = ""; // Limpiar la lista antes de mostrarla
+
+    for (let i = 0; i <amigos.length; i++){
+        const li = document.createElement('li');
+        li.textContent = amigos[i];
+        lista.appendChild(li);
+    }
+
+}
+
+function sortearAmigo() {
+    if (amigos.length === 0){
+        alert("No hay amigos en la lista para sortear.");
+        return;
+    }
+
+    const indiceAleatorio = Math.floor(Math.random() * amigos.length);
+    const amigoSorteado = amigos[indiceAleatorio];
+
+    const resultado = document.getElementById('resultadoSorteado');
+    resultado.innerHTML = `El amigo sorteado es: <strong>${amigoSorteado}</strong>`;
 }
