@@ -6,7 +6,7 @@
 Descripción
 Una aplicación web sencilla para gestionar tus nombres de amigos y realizar un sorteo aleatorio, ideal para organizar dinámicas como "amigo secreto" entre amigos o familiares.
 
-Demostración
+Accede directamente y pruébala aquí: https://ericklagosj.github.io/desafio-amigo-secreto/
 
 Características principales:
 -Registro y visualización de nombres ingresados por el usuario.
