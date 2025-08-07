@@ -1,4 +1,4 @@
-# desafio-amigo-secreto
+<em> # Desafio amigo secreto </em>
 
 Descripción
 Una aplicación web sencilla para gestionar tus nombres de amigos y realizar un sorteo aleatorio, ideal para organizar dinámicas como "amigo secreto" entre amigos o familiares.
