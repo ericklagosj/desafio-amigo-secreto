@@ -1,28 +1,25 @@
-<em> # Desafio amigo secreto </em>
+<em> # Desafio amigo secreto 🎁 </em>
 
-Descripción
-Una aplicación web sencilla para gestionar tus nombres de amigos y realizar un sorteo aleatorio, ideal para organizar dinámicas como "amigo secreto" entre amigos o familiares.
+Una aplicación web interactiva para organizar un sorteo de "Amigo Secreto" de forma rápida, sencilla y divertida. Agrega nombres de amigos, evita duplicados o entradas vacías, y realiza un sorteo aleatorio en segundos. ¡Ideal para tus reuniones familiares o de oficina!
 
-Demostración
+✨ Características principales:
 
-Características principales:
--Registro y visualización de nombres ingresados por el usuario.
--Validación para evitar entradas vacías.
--Actualización en tiempo real de la lista con niveles de claridad.
--Sorteo aleatorio del nombre seleccionado.
--Interfaz amigable y accesible para todo tipo de usuario.
+✅ Registro y visualización de nombres ingresados.
 
-Cómo ejecutar
+🧹 Validación para evitar entradas vacías o inválidas.
 
-1- Clona el repositorio:
-git clone https://github.com/ericklagosj/desafio-amigo-secreto.git
+🔁 Actualización en tiempo real de la lista.
 
-2- Entra al directorio:
-cd desafio-amigo-secreto
+🔮 Sorteo completamente aleatorio.
 
-3- Abre index.html directamente en tu navegador o desde VS Code haz clic derecho → Open with Live Server.
+💡 Interfaz clara, simple y amigable para cualquier usuario.
 
-Tecnologías utilizadas
-HTML, CSS y JavaScript puro
+🚀 Demostración
+Puedes probar la aplicación abriendo el archivo index.html directamente desde tu navegador o utilizando Live Server en Visual Studio Code.
 
-Estructura de archivos: index.html, app.js, style.css, carpeta assets/.
+🛠️ Tecnologías utilizadas
+HTML5
+
+CSS3
+
+JavaScript (Vanilla)
