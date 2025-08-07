@@ -1,25 +1,31 @@
-<em> # Desafio amigo secreto 🎁 </em>
+<em> # Desafio amigo secreto </em>
 
-Una aplicación web interactiva para organizar un sorteo de "Amigo Secreto" de forma rápida, sencilla y divertida. Agrega nombres de amigos, evita duplicados o entradas vacías, y realiza un sorteo aleatorio en segundos. ¡Ideal para tus reuniones familiares o de oficina!
+![image Alt](https://github.com/ericklagosj/desafio-amigo-secreto/blob/5769909754dc437d0de752ff948e54606e237a27/amigo-secreto%20-%20copia.png)
 
-✨ Características principales:
 
-✅ Registro y visualización de nombres ingresados.
+Descripción
+Una aplicación web sencilla para gestionar tus nombres de amigos y realizar un sorteo aleatorio, ideal para organizar dinámicas como "amigo secreto" entre amigos o familiares.
 
-🧹 Validación para evitar entradas vacías o inválidas.
+Demostración
 
-🔁 Actualización en tiempo real de la lista.
+Características principales:
+-Registro y visualización de nombres ingresados por el usuario.
+-Validación para evitar entradas vacías.
+-Actualización en tiempo real de la lista con niveles de claridad.
+-Sorteo aleatorio del nombre seleccionado.
+-Interfaz amigable y accesible para todo tipo de usuario.
 
-🔮 Sorteo completamente aleatorio.
+Cómo ejecutar
 
-💡 Interfaz clara, simple y amigable para cualquier usuario.
+1- Clona el repositorio:
+git clone https://github.com/ericklagosj/desafio-amigo-secreto.git
 
-🚀 Demostración
-Puedes probar la aplicación abriendo el archivo index.html directamente desde tu navegador o utilizando Live Server en Visual Studio Code.
+2- Entra al directorio:
+cd desafio-amigo-secreto
 
-🛠️ Tecnologías utilizadas
-HTML5
+3- Abre index.html directamente en tu navegador o desde VS Code haz clic derecho → Open with Live Server.
 
-CSS3
+Tecnologías utilizadas
+HTML, CSS y JavaScript puro
 
-JavaScript (Vanilla)
+Estructura de archivos: index.html, app.js, style.css, carpeta assets/.
