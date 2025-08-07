@@ -1,4 +1,5 @@
 <em> # Desafio amigo secreto 🎁 </em>
+![image Alt](https://github.com/ericklagosj/desafio-amigo-secreto/blob/5769909754dc437d0de752ff948e54606e237a27/amigo-secreto%20-%20copia.png)
 
 Una aplicación web interactiva para organizar un sorteo de "Amigo Secreto" de forma rápida, sencilla y divertida. Agrega nombres de amigos, evita duplicados o entradas vacías, y realiza un sorteo aleatorio en segundos. ¡Ideal para tus reuniones familiares o de oficina!
 
